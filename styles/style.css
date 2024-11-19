@@ -1,0 +1,23 @@
+.box{
+  margin-top: 10px;
+  margin-left: 10px;
+  display: flex;
+  flex-direction: column;
+  max-width: 460px;
+
+  align-items: start;
+}
+
+.place{
+  left: 0;
+  padding-right: 0;
+  padding-left: 0;
+  padding: 0;
+  margin: 0;
+  gap: 0;
+}
+
+.btn {
+  padding: 0 5px;
+}
+
